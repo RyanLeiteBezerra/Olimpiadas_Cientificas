@@ -1,4 +1,4 @@
-# Olimpiadas_Cientificas
+# Olimpiadas Cientificas
 
 🥇 Ouro - Olimpíada Brasileira de Astronomia (OBA)
 
