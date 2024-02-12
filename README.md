@@ -6,4 +6,4 @@
 
 🥈 Prata - Olimpíada Brasileira de Física (OBF)
 
-🥉 Bronze - Bronze - Olimpíada Nacional de Ciências (ONC)
+🥉 Bronze - Olimpíada Nacional de Ciências (ONC)
